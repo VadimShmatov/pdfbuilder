@@ -5,13 +5,13 @@ PdfBuilder is a Python library for low-level PDF crafting. It allows:
 - adding new objects and editing existing ones via incremental saves;
 - working with both old xref tables and new xref stream objects.
 
-##How to install
+## How to install
 
 `$ pip install pdfbuilder`
 
 PdfBuilder is written in a pure Python and doesn't have any external dependencies. It requires Python 3.5 or higher to function properly.
 
-##Example
+## Example
 
 A minimalistic code sample that creates "Hello, world" PDF file is listed below:
 ```python
