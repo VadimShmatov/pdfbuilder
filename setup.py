@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pdfbuilder",
-    version="0.0.2",
+    version="0.1.0",
     author="Vadim Shmatov",
     author_email="shmatov96@mail.ru",
     description="A package for low-level PDF crafting",
